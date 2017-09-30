@@ -1,0 +1,37 @@
+{
+  "name": "szn-checkbox",
+  "version": "0.0.0",
+  "description": "Accessible HTML checkbox with customizable UI. Based on web components and easy to integrate with various frameworks like React or Angular.",
+  "main": "szn-checkbox.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jurca/szn-checkbox.git"
+  },
+  "keywords": [
+    "html",
+    "web",
+    "component",
+    "components",
+    "checkbox",
+    "szn",
+    "seznam",
+    "seznam.cz",
+    "accessible",
+    "accessibility",
+    "a11y"
+  ],
+  "author": "Martin Jurča <martin.jurca@firma.seznam.cz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jurca/szn-checkbox/issues"
+  },
+  "homepage": "https://github.com/jurca/szn-checkbox#readme",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-fbjs-opensource": "^1.0.0",
+    "jest": "^21.2.1"
+  }
+}
