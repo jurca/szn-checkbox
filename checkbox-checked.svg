@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    height="14"
+    width="14"
+    version="1.1"
+>
+    <rect
+        rx="3"
+        y="0"
+        x="0"
+        height="14"
+        width="14"
+        style="fill: #de0000; fill: var(--szn-checkbox-color-checked-box, #de0000)"
+    />
+    <path
+        d="M 6.6502243,0 C 4.7339324,2.56611 3.2055867,4.52456 2.73088,5.1358 2.2421794,4.66097 1.6900598,4.12291 1.1654275,3.61976 L 0,4.83622 c 0.74181078,0.71149 2.2386864,2.16791 2.2386864,2.16791 l 0.6748987,0.65678 0.577768,-0.74239 c 0,0 2.299831,-2.95327 4.5086469,-5.91111 L 6.6502134,1e-5 Z"
+        transform="translate(3,3.16954495)"
+        style="fill: #fff; fill: var(--szn-checkbox-color-check, #fff)"
+    />
+</svg>

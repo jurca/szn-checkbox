@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    height="14"
+    width="14"
+    version="1.1"
+>
+    <rect
+        rx="3"
+        y="0.5"
+        x="0.5"
+        height="13"
+        width="13"
+        stroke-width="1"
+        style="fill: #fff; fill: var(--szn-checkbox-color-unchecked-box-fill, #fff); stroke: #ccc; stroke: var(--szn-checkbox-color-unchecked-box-stroke, #ccc)"
+    />
+</svg>
