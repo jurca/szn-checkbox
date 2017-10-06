@@ -54,7 +54,8 @@
         }
       }
 
-      this.onUiClicked = () => {
+      this.onUiClicked = event => {
+        event.preventDefault() // prevent conflict of behavior if the checkbox is wrapped by a label
         this._input.checked = !this._input.checked
         this._input.dispatchEvent(new CustomEvent('change'))
       }
